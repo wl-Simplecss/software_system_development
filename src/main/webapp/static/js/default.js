@@ -1,0 +1,1 @@
+let API_PREFIX = "/BOOK_war/"
